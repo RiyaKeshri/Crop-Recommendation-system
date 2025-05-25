@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+            background-color: #f1f1f1;
+        }
+        .container {
+            padding: 20px;
+            border-radius: 10px;
+            background-color: white;
+            display: inline-block;
+            border: 1px solid #ccc;
+        }
+        .crop-name {
+            font-size: 24px;
+            font-weight: bold;
+            color: #28a745;
+        }
+        .back-link {
+            display: block;
+            margin-top: 20px;
+            color: blue;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Recommended Crop</h2>
+        <p class="crop-name">{{ crop }}</p>
+        <a class="back-link" href="/">Try Another Prediction</a>
+    </div>
+</body>
+</html>
