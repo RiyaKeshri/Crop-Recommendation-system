@@ -1,0 +1,183 @@
+pip install scikit-learn pandas matplotlib
+
+
+
+Epoch 1/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 4s 13ms/step - accuracy: 0.1112 - loss: 2.9406 - val_accuracy: 0.4290 - val_loss: 2.3108
+Epoch 2/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.3907 - loss: 2.1692 - val_accuracy: 0.7131 - val_loss: 1.3857
+Epoch 3/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 7ms/step - accuracy: 0.6027 - loss: 1.3863 - val_accuracy: 0.7699 - val_loss: 0.9099
+Epoch 4/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.6619 - loss: 1.0458 - val_accuracy: 0.8182 - val_loss: 0.6840
+Epoch 5/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.7077 - loss: 0.8980 - val_accuracy: 0.8636 - val_loss: 0.5525
+Epoch 6/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 7ms/step - accuracy: 0.7448 - loss: 0.7582 - val_accuracy: 0.8636 - val_loss: 0.4841
+Epoch 7/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.7925 - loss: 0.6279 - val_accuracy: 0.8608 - val_loss: 0.4156
+Epoch 8/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.7866 - loss: 0.6063 - val_accuracy: 0.8949 - val_loss: 0.3688
+Epoch 9/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 7ms/step - accuracy: 0.8026 - loss: 0.5431 - val_accuracy: 0.8920 - val_loss: 0.3438
+Epoch 10/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step - accuracy: 0.8301 - loss: 0.5200 - val_accuracy: 0.9006 - val_loss: 0.3230
+Epoch 11/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step - accuracy: 0.8387 - loss: 0.4992 - val_accuracy: 0.9091 - val_loss: 0.2944
+Epoch 12/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step - accuracy: 0.8325 - loss: 0.4785 - val_accuracy: 0.9091 - val_loss: 0.2733
+Epoch 13/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step - accuracy: 0.8294 - loss: 0.4650 - val_accuracy: 0.9119 - val_loss: 0.2642
+Epoch 14/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step - accuracy: 0.8567 - loss: 0.4279 - val_accuracy: 0.9261 - val_loss: 0.2439
+Epoch 15/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step - accuracy: 0.8466 - loss: 0.4078 - val_accuracy: 0.9205 - val_loss: 0.2327
+Epoch 16/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8460 - loss: 0.3914 - val_accuracy: 0.9233 - val_loss: 0.2205
+Epoch 17/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8487 - loss: 0.3912 - val_accuracy: 0.9233 - val_loss: 0.2133
+Epoch 18/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8576 - loss: 0.4002 - val_accuracy: 0.9261 - val_loss: 0.2145
+Epoch 19/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8758 - loss: 0.3252 - val_accuracy: 0.9375 - val_loss: 0.2120
+Epoch 20/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8613 - loss: 0.3934 - val_accuracy: 0.9176 - val_loss: 0.2120
+Epoch 21/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8888 - loss: 0.3235 - val_accuracy: 0.9403 - val_loss: 0.1929
+Epoch 22/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8576 - loss: 0.3561 - val_accuracy: 0.9403 - val_loss: 0.1932
+Epoch 23/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8718 - loss: 0.3369 - val_accuracy: 0.9347 - val_loss: 0.1789
+Epoch 24/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 7ms/step - accuracy: 0.8876 - loss: 0.3009 - val_accuracy: 0.9489 - val_loss: 0.1747
+Epoch 25/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 10ms/step - accuracy: 0.8826 - loss: 0.3264 - val_accuracy: 0.9347 - val_loss: 0.1815
+Epoch 26/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8902 - loss: 0.3211 - val_accuracy: 0.9432 - val_loss: 0.1805
+Epoch 27/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8939 - loss: 0.2904 - val_accuracy: 0.9460 - val_loss: 0.1608
+Epoch 28/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8863 - loss: 0.2974 - val_accuracy: 0.9489 - val_loss: 0.1583
+Epoch 29/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.9059 - loss: 0.2707 - val_accuracy: 0.9517 - val_loss: 0.1631
+Epoch 30/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step - accuracy: 0.8686 - loss: 0.3051 - val_accuracy: 0.9517 - val_loss: 0.1532
+Epoch 31/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8865 - loss: 0.2826 - val_accuracy: 0.9489 - val_loss: 0.1453
+Epoch 32/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step - accuracy: 0.9030 - loss: 0.2826 - val_accuracy: 0.9545 - val_loss: 0.1453
+Epoch 33/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 7ms/step - accuracy: 0.9037 - loss: 0.2585 - val_accuracy: 0.9545 - val_loss: 0.1470
+Epoch 34/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.9040 - loss: 0.2772 - val_accuracy: 0.9574 - val_loss: 0.1413
+Epoch 35/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.9066 - loss: 0.2557 - val_accuracy: 0.9631 - val_loss: 0.1338
+Epoch 36/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - accuracy: 0.8780 - loss: 0.2859 - val_accuracy: 0.9545 - val_loss: 0.1404
+Epoch 37/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 11ms/step - accuracy: 0.9046 - loss: 0.2564 - val_accuracy: 0.9631 - val_loss: 0.1233
+Epoch 38/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 9ms/step - accuracy: 0.8936 - loss: 0.2700 - val_accuracy: 0.9602 - val_loss: 0.1291
+Epoch 39/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 12ms/step - accuracy: 0.9111 - loss: 0.2501 - val_accuracy: 0.9659 - val_loss: 0.1210
+Epoch 40/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 11ms/step - accuracy: 0.8947 - loss: 0.2986 - val_accuracy: 0.9574 - val_loss: 0.1311
+Epoch 41/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 12ms/step - accuracy: 0.9220 - loss: 0.2365 - val_accuracy: 0.9574 - val_loss: 0.1269
+Epoch 42/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 2s 18ms/step - accuracy: 0.9094 - loss: 0.2260 - val_accuracy: 0.9602 - val_loss: 0.1273
+Epoch 43/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 2s 22ms/step - accuracy: 0.9094 - loss: 0.2337 - val_accuracy: 0.9688 - val_loss: 0.1117
+Epoch 44/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 14ms/step - accuracy: 0.9206 - loss: 0.2274 - val_accuracy: 0.9631 - val_loss: 0.1099
+Epoch 45/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 1s 14ms/step - accuracy: 0.9310 - loss: 0.1919 - val_accuracy: 0.9545 - val_loss: 0.1174
+Epoch 46/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 2s 22ms/step - accuracy: 0.9184 - loss: 0.2234 - val_accuracy: 0.9489 - val_loss: 0.1314
+Epoch 47/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 3s 36ms/step - accuracy: 0.9225 - loss: 0.2050 - val_accuracy: 0.9574 - val_loss: 0.1187
+Epoch 48/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 2s 21ms/step - accuracy: 0.9104 - loss: 0.2327 - val_accuracy: 0.9716 - val_loss: 0.1092
+Epoch 49/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 2s 17ms/step - accuracy: 0.9140 - loss: 0.2457 - val_accuracy: 0.9489 - val_loss: 0.1194
+Epoch 50/50
+88/88 ━━━━━━━━━━━━━━━━━━━━ 3s 20ms/step - accuracy: 0.9229 - loss: 0.2127 - val_accuracy: 0.9631 - val_loss: 0.1095
+CNN Test Accuracy: 0.96
+
+
+
+
+
+
+Let's analyze the four key parameters:
+
+Final Values from Your Model Training
+Final Training Accuracy: 92.29% (The model has learned well on the training set.)
+
+Final Validation Accuracy: 96.31% (It generalizes even better than expected!)
+
+Final Training Loss: 0.2127 (Low error during training.)
+
+Final Validation Loss: 0.1095 (Lower than training loss, indicating strong generalization.)
+
+Significance of These Four Parameters in Model Performance
+1. Training Accuracy – 92.29%
+What It Means
+Training accuracy indicates how effectively the model learns patterns within the training dataset. A high value suggests strong learning. However, it should not be too much higher than validation accuracy, as this would indicate overfitting.
+
+Analysis Based on Your Model
+Your model has reached 92.29% training accuracy, meaning it correctly predicts most samples from the training dataset.
+
+This steady growth (starting from 11.12% in Epoch 1) suggests the model has learned complex patterns effectively.
+
+Since the validation accuracy is higher than training accuracy, your model likely benefits from data augmentation or dropout layers helping generalization.
+
+Impact on Model Performance
+✔ A high training accuracy means the model effectively learns from the dataset. ✔ Since validation accuracy is even higher, it suggests strong generalization rather than overfitting.
+
+2. Validation Accuracy – 96.31%
+What It Means
+Validation accuracy represents how well the model generalizes to unseen data. A high validation accuracy close to training accuracy indicates strong learning and generalization.
+
+Analysis Based on Your Model
+The validation accuracy grew from 42.90% (Epoch 1) to 96.31% (Epoch 50).
+
+Since validation accuracy exceeds training accuracy, the model effectively generalizes to new data.
+
+This indicates minimal overfitting, meaning the model is not simply memorizing training data but learning patterns applicable to unseen data.
+
+Impact on Model Performance
+✔ A high validation accuracy ensures robust real-world performance. ✔ The slight lead over training accuracy suggests good generalization.
+
+3. Training Loss – 0.2127
+What It Means
+Training loss measures the error between predicted and actual outputs. A decreasing training loss shows that the model is learning effectively.
+
+Analysis Based on Your Model
+Loss started at 2.9406 in Epoch 1, showing high initial error.
+
+By Epoch 50, training loss dropped to 0.2127, indicating minimal error.
+
+This steady decline means the model optimizes well with its current hyperparameters.
+
+Impact on Model Performance
+✔ A low training loss means the model’s predictions are accurate. ✔ The continuous decrease across epochs shows effective weight optimization.
+
+4. Validation Loss – 0.1095
+What It Means
+Validation loss tells us how well the model performs on new data. A low validation loss relative to training loss suggests strong generalization.
+
+Analysis Based on Your Model
+The validation loss steadily decreased from 2.3108 (Epoch 1) to 0.1095 (Epoch 50).
+
+Since validation loss is lower than training loss, the model adapts well to unseen data.
+
+This means the model is avoiding overfitting and performing well across different datasets.
+
+Impact on Model Performance
+✔ A lower validation loss than training loss suggests a strong generalization ability. ✔ The steady decrease over time indicates effective optimization without overfitting.
+
+Final Evaluation and Observations
+Unlike your previous model, this training run shows ideal convergence where validation loss and accuracy surpass training loss and accuracy: ✅ Training accuracy is high (92.29%) but does not indicate overfitting. ✅ Validation accuracy is even higher (96.31%), showing excellent generalization. ✅ Training loss decreased consistently, confirming successful optimization. ✅ Validation loss is lower than training loss—indicating the model is adapting well to unseen data.
+
+This is an exceptional outcome, meaning your model generalizes well without overfitting, likely benefiting from dropout, batch normalization, or high-quality augmentation techniques.
